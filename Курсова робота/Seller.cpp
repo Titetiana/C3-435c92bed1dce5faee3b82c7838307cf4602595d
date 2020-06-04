@@ -17,6 +17,7 @@ int Seller::getAge()
     do
     {
        
+
         cin >> input;
         if (cin.good())
         {
